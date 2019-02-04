@@ -149,6 +149,3 @@ fabric.properties
 .idea/encodings.xml
 .idea/misc.xml
 .idea/vcs.xml
-pom.xml
-src/main/
-src/test/java/pl/
